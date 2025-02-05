@@ -1,33 +1,45 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# OGIDAN TOLU - Data Engineering Portfolio 🌍🚀
+
+Welcome to my **Data Engineering Portfolio**! This website showcases my experience, skills, and projects in **big data, cloud computing, ETL pipelines, and DevOps**. 
+
+## 📌 About the Website
+This portfolio serves as a hub for my **technical projects, blog, and professional experience**. It is designed to highlight my expertise in **data engineering, Python, PySpark, Databricks, and cloud technologies**.
 
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🔥 Features
+- **Projects Section:** Detailed descriptions of my data engineering projects, including GitHub links.
+- **About Me:** My background, skills, and professional experience.
+- **Contact Me:** Easy ways to get in touch via email, LinkedIn, and social media.
+- **Download Resume:** A direct link to my latest resume.
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## 🚀 Featured Projects
+Here are some of the key projects showcased on the website:
 
+### 1️⃣ **Credit Scoring Data Pipeline (Docker + AWS)**
+   
+### 2️⃣ **Databricks Stock Data Pipeline**
 
-Credits:
+### 3️⃣ **PySpark ETL Pipeline with Task Scheduler**
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## 🛠️ Technologies Used
+This portfolio is built using:
+- **HTML5, CSS3, JavaScript**
+- **Hyperspace Template by HTML5 UP**
+- **GitHub Pages (for hosting)**
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+
+## 📩 Contact Me
+If you’re interested in **collaborating, hiring, or discussing data engineering**, feel free to reach out:
+
+- 📍 Location: Glasgow, UK 🇬🇧
+- 📧 Email: [gbemilekeogidan@gmail.com](mailto:gbemilekeogidan@gmail.com)
+
+---
+
